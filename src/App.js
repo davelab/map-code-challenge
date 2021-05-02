@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { ToastContainer } from 'react-toastify';
 
 import Map from './components/Map';
-import { getGeocode } from './mockAPI';
 import Finder from './components/Finder';
 import svgMarkers from './components/Map/svgMarkes';
 import 'react-toastify/dist/ReactToastify.css';
